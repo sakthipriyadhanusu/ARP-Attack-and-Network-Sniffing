@@ -23,7 +23,6 @@ In windows 7 give the command arp -a
 From kali linux issue the command : sudo arpspoof -i eth0 -t
 ## OUTPUT:
 ![image](https://github.com/sakthipriyadhanusu/ARP-Attack-and-Network-Sniffing/assets/119393194/e66e1874-b56d-4f48-bcb0-f1b5010da95c)
-
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 ![image](https://github.com/sakthipriyadhanusu/ARP-Attack-and-Network-Sniffing/assets/119393194/7b2ee7dd-86a1-4c73-b56b-8b48ad6e6bc7)
